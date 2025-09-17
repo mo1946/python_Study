@@ -1,0 +1,2 @@
+# python_Study
+学习用python调用ollama搭建一个本地的简单的ai
